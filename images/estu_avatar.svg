@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="213.85866"
+   height="213.85733"
+   viewBox="0 0 213.85865 213.85733"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     id="g10"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,213.85733)"><g
+       id="g12"
+       transform="scale(0.1)"><path
+         d="m 962.363,1443.55 -160.386,160.38 -160.403,-160.38 160.403,-160.4 160.386,160.4"
+         style="fill:#8e1916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" /><path
+         d="m 1443.54,962.375 -160.4,-160.398 160.4,-160.379 160.4,160.379 -160.4,160.398"
+         style="fill:#8e1916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" /><path
+         d="M 962.363,481.199 801.977,320.801 641.574,481.199 481.176,320.801 641.574,160.398 801.977,0 962.34,160.398 l 160.4,160.403 160.4,160.398 -160.38,160.379 -160.397,-160.379"
+         style="fill:#8e1916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path18" /><path
+         d="m 962.363,801.977 160.397,160.378 160.4,160.395 -160.4,160.4 L 962.363,1122.75 801.977,962.355 641.574,801.977 481.176,641.578 641.574,481.199 801.977,641.578 962.363,801.977"
+         style="fill:#8e1916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20" /><path
+         d="M 481.176,962.355 641.574,1122.75 481.199,1283.15 320.801,1122.75 160.398,962.355 0,801.977 160.398,641.578 320.801,481.199 481.176,641.578 320.801,801.977 481.176,962.355"
+         style="fill:#8e1916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path22" /></g></g></svg>
